@@ -1,0 +1,3 @@
+[submodule "amazon-ecs-logs-collector"]
+	path = amazon-ecs-logs-collector
+	url = https://github.com/aws/amazon-ecs-logs-collector.git
